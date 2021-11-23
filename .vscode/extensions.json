@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "twxs.cmake",
+        "visualstudioexptteam.vscodeintellicode",
+        "ms-python.python",
+        "ms-vscode.cmake-tools"
+    ]
+}
